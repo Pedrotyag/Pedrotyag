@@ -19,7 +19,7 @@ Sou um estudante de Engenharia Mecânica com paixão por programação e tecnolo
 - 🌱 Estou estudando técnicas de Visão Computacional e Aprendizado Profundo utilizando PyTorch.
 - 🤝 Estou em busca de oportunidades para colaborar em projetos de ciência de dados e aprendizado profundo.
 
-[![Suas estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=pedrotyag)](https://github.com/anuraghazra/github-readme-stats)
+[![Suas estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=pedrotyag&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="center">
     <a href="https://www.python.org/" target="_blank">
