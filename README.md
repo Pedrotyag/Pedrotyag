@@ -18,7 +18,7 @@ Sou um estudante de Engenharia Mecânica com paixão por programação e tecnolo
 - 🔭 Atualmente, estou trabalhando em classificação de imagens e aprimorando constantemente minhas habilidades em estruturas de dados e algoritmos.
 - 🌱 Estou estudando técnicas de Visão Computacional e Aprendizado Profundo utilizando PyTorch.
 - 🤝 Estou em busca de oportunidades para colaborar em projetos de ciência de dados e aprendizado profundo.
-- 
+  
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=pedrotyag&show_icons=true&theme=gruvbox" alt="Suas estatísticas do GitHub">
