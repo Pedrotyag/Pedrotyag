@@ -20,8 +20,11 @@ Sou um estudante de Engenharia Mecânica com paixão por programação e tecnolo
 - 🤝 Estou em busca de oportunidades para colaborar em projetos de ciência de dados e aprendizado profundo.
 - 
 <p align="center">
-  [![Suas estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=pedrotyag&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=pedrotyag&show_icons=true&theme=gruvbox" alt="Suas estatísticas do GitHub">
+  </a>
 </p>
+
 
 <p align="center">
     <a href="https://www.python.org/" target="_blank">
